@@ -9,7 +9,7 @@
 </div>
 
 
-My name is [Daniel Kolocka](https://github.com/DanielKolocka). I am a computer science student at Simon Fraser University; currently working as a Full Stack Software Developer at [Insighteur Inc.](https://insighteur.com/)
+My name is [Daniel Kolocka](https://www.linkedin.com/in/danielkolocka/). I am a computer science student at Simon Fraser University; currently working as a Full Stack Software Developer at [Insighteur Inc.](https://insighteur.com/)
 
 - 📫 How to reach me: Connect with me on [Linkedin!](https://www.linkedin.com/in/danielkolocka/)
 - 🌱 I’m currently working on personal projects related to back-end software engineering. 
