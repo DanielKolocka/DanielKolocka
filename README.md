@@ -13,7 +13,7 @@ My name is [Daniel Kolocka](https://www.linkedin.com/in/danielkolocka/). I am a 
 
 - 📫 How to reach me: Connect with me on [Linkedin!](https://www.linkedin.com/in/danielkolocka/)
 - 🌱 I’m currently working on personal projects related to back-end software engineering. 
-- 👯 I’m interested in internship/co-op positions around Vancouver (Canada), Novi Sad (Serbia), Belgrade (Serbia), and remote!
+- 👯 I’m interested in internship/co-op positions around Novi Sad (Serbia), Vancouver (Canada), Belgrade (Serbia), and remote!
 
 ### Languages and Tools
 <img align="left" alt="JavaScript" width="26px" src="./Icons/javascript-original.svg" />
