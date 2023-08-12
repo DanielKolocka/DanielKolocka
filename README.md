@@ -9,11 +9,10 @@
 </div>
 
 
-My name is [Daniel Kolocka](https://www.linkedin.com/in/danielkolocka/). I am a computer science student at Simon Fraser University; recently finished working as a Full Stack Software Developer at [Insighteur Inc.](https://insighteur.com/)
+My name is [Daniel Kolocka](https://www.linkedin.com/in/danielkolocka/). I am a computer science student at Simon Fraser University; recently finished working as a Full Stack Software Developer at [Insighteur Inc.](https://insighteur.com/), currently interning at [Doppio Group](https://doppiogroup.com/) as a software engineer going towards a career as a techincal solutions architect for ERP systems, specifically in Infor M3.
 
 - 📫 How to reach me: Connect with me on [Linkedin!](https://www.linkedin.com/in/danielkolocka/)
-- 🌱 I’m currently working on personal projects related to back-end software engineering. 
-- 👯 I’m interested in internship/co-op positions around Vancouver (Canada), Novi Sad (Serbia), Belgrade (Serbia), and remote!
+- 🌱 I’m currently working as an associate technical consultant using Infor M3. 
 
 ### Languages and Tools
 <img align="left" alt="JavaScript" width="26px" src="./Icons/javascript-original.svg" />
