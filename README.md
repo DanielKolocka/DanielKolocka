@@ -9,7 +9,8 @@
 </div>
 
 
-My name is [Daniel Kolocka](https://www.linkedin.com/in/danielkolocka/). I am a computer science student at Simon Fraser University; recently finished working as a Full Stack Software Developer at [Insighteur Inc.](https://insighteur.com/), currently interning at [Doppio Group](https://doppiogroup.com/) as a software engineer going towards a career as a techincal solutions architect for ERP systems, specifically in Infor M3.
+My name is [Daniel Kolocka](https://www.linkedin.com/in/danielkolocka/). I am currently employed full-time at [Doppio Group](https://doppiogroup.com/) as an Associate Technical Consultant (Software Engineer), where I focus on developing expertise in enterprise resource planning (ERP) systems.
+I am a computer science graduate from Simon Fraser University. During my degree, I gained practical experience working at a startup called [Insighteur Inc.](https://insighteur.com/) as a Full Stack Software Developer and also completed a software engineering internship at [Doppio Group](https://doppiogroup.com/).
 
 - 📫 How to reach me: Connect with me on [Linkedin!](https://www.linkedin.com/in/danielkolocka/)
 - 🌱 I’m currently working as an associate technical consultant using Infor M3. 
